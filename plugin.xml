@@ -72,7 +72,7 @@
         <source-file src="libs/android/alipaysdk.jar" target-dir="libs" framework="true"/>
         <source-file src="libs/android/alipaysecsdk.jar" target-dir="libs" framework="true"/>
         <source-file src="libs/android/alipayutdid.jar" target-dir="libs" framework="true"/>
-        <source-file src="libs/android/libammsdk.jar" target-dir="libs" framework="true"/>
+       <!-- <source-file src="libs/android/libammsdk.jar" target-dir="libs" framework="true"/> -->
         <source-file src="libs/android/libpingpp.jar" target-dir="libs" framework="true"/>
         <source-file src="libs/android/UPPayAssistEx.jar" target-dir="libs" framework="true"/>
     </platform>
